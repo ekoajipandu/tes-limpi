@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
   <head>
     <title> TEST</title>
 	
@@ -33,5 +32,3 @@
 		</div>
    </div>
 
-  </body>
-</html>
